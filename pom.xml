@@ -39,7 +39,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.msresearch.app.GridFSRead</mainClass>
+              <mainClass>com.msresearch.app.AskResearchApp</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
